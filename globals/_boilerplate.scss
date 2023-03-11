@@ -1,0 +1,14 @@
+@use '../util/' as u;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: u.$font;
+    height: 100vh;
+    width: 100%;
+}
+
